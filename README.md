@@ -3,3 +3,5 @@ This App is to predict employee average salary based on their experience and int
 
 
 ![img](img.PNG)
+
+![requirements](requirements.txt)
